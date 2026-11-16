@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OZnjrqwCVtE=",
+  "dgSpecHash": "N7pR8FZI4ro=",
   "success": true,
   "projectFilePath": "D:\\szerveroldalibead\\LabEquipmentApi\\LabEquipmentApi\\LabEquipmentApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
