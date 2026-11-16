@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jnya5gMMhs=",
+  "success": true,
+  "projectFilePath": "D:\\szerveroldalibead\\LabEquipmentApi\\LabEquipmentApi\\LabEquipmentApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
